@@ -1,1 +1,2 @@
-image: ceumicrodata/stata
+image:
+  file: Dockerfile
